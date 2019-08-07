@@ -1,0 +1,16 @@
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\CB100 Tester\CB100 Tester\obj\Release\ResolveAssemblyReference.cache
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\CB100 Tester\CB100 Tester\obj\Release\CB100_Tester.Properties.Resources.resources
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\CB100 Tester\CB100 Tester\obj\Release\CB100 Tester.csproj.GenerateResource.Cache
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\CB100 Tester\CB100 Tester\bin\Release\CB100 Tester.exe
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\CB100 Tester\CB100 Tester\bin\Release\CB100 Tester.pdb
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\CB100 Tester\CB100 Tester\obj\Release\CB100 Tester.exe
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\CB100 Tester\CB100 Tester\obj\Release\CB100 Tester.pdb
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\CB100 Tester\CB100 Tester\bin\Debug\CB100 Tester.exe
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\CB100 Tester\CB100 Tester\bin\Debug\CB100 Tester.pdb
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\CB100 Tester\CB100 Tester\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\CB100 Tester\CB100 Tester\obj\Debug\CB100_Tester.Form1.resources
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\CB100 Tester\CB100 Tester\obj\Debug\CB100_Tester.Properties.Resources.resources
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\CB100 Tester\CB100 Tester\obj\Debug\CB100 Tester.csproj.GenerateResource.Cache
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\CB100 Tester\CB100 Tester\obj\Debug\CB100 Tester.exe
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\CB100 Tester\CB100 Tester\obj\Debug\CB100 Tester.pdb
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\CB100 Tester\CB100 Tester\obj\Release\CB100_Tester.CB100.resources

@@ -1,0 +1,8 @@
+E:\Projects\Endless falling v1.3\WindowsApplication1\bin\Release\Endless Falling.exe
+E:\Projects\Endless falling v1.3\WindowsApplication1\bin\Release\Endless Falling.pdb
+E:\Projects\Endless falling v1.3\WindowsApplication1\obj\Release\WindowsApplication1.MainForm.resources
+E:\Projects\Endless falling v1.3\WindowsApplication1\obj\Release\WindowsApplication1.Properties.Resources.resources
+E:\Projects\Endless falling v1.3\WindowsApplication1\obj\Release\Endless Falling.csproj.GenerateResource.Cache
+E:\Projects\Endless falling v1.3\WindowsApplication1\obj\Release\Endless Falling.csproj.CoreCompileInputs.cache
+E:\Projects\Endless falling v1.3\WindowsApplication1\obj\Release\Endless Falling.exe
+E:\Projects\Endless falling v1.3\WindowsApplication1\obj\Release\Endless Falling.pdb

@@ -1,0 +1,16 @@
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\Project\Windows HelpTools\Windows HelpTools\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\Project\Windows HelpTools\Windows HelpTools\obj\Debug\Windows_HelpTools.MainFormInterface.resources
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\Project\Windows HelpTools\Windows HelpTools\obj\Debug\Windows_HelpTools.Properties.Resources.resources
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\Project\Windows HelpTools\Windows HelpTools\obj\Debug\Windows HelpTools.csproj.GenerateResource.Cache
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\Project\Windows HelpTools\Windows HelpTools\bin\Debug\Windows HelpTools.exe
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\Project\Windows HelpTools\Windows HelpTools\bin\Debug\Windows HelpTools.pdb
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\Project\Windows HelpTools\Windows HelpTools\obj\Debug\Windows HelpTools.exe
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\Project\Windows HelpTools\Windows HelpTools\obj\Debug\Windows HelpTools.pdb
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\Project\Windows HelpTools\Windows HelpTools\bin\Release\Windows HelpTools.exe
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\Project\Windows HelpTools\Windows HelpTools\bin\Release\Windows HelpTools.pdb
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\Project\Windows HelpTools\Windows HelpTools\obj\Release\ResolveAssemblyReference.cache
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\Project\Windows HelpTools\Windows HelpTools\obj\Release\Windows_HelpTools.MainFormInterface.resources
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\Project\Windows HelpTools\Windows HelpTools\obj\Release\Windows_HelpTools.Properties.Resources.resources
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\Project\Windows HelpTools\Windows HelpTools\obj\Release\Windows HelpTools.csproj.GenerateResource.Cache
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\Project\Windows HelpTools\Windows HelpTools\obj\Release\Windows HelpTools.exe
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\Project\Windows HelpTools\Windows HelpTools\obj\Release\Windows HelpTools.pdb

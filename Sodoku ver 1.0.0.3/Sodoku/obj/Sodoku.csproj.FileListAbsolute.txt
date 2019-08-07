@@ -1,0 +1,66 @@
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku\Sodoku\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku\Sodoku\obj\Debug\Sodoku.Properties.Resources.resources
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku\Sodoku\obj\Debug\Sodoku.csproj.GenerateResource.Cache
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku\Sodoku\obj\Release\ResolveAssemblyReference.cache
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku\Sodoku\obj\Release\Sodoku.Properties.Resources.resources
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku\Sodoku\obj\Release\Sodoku.csproj.GenerateResource.Cache
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku\Sodoku\bin\Release\Sodoku.exe
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku\Sodoku\bin\Release\Sodoku.pdb
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku\Sodoku\obj\Release\Sodoku.exe
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku\Sodoku\obj\Release\Sodoku.pdb
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku\Sodoku\bin\Debug\Sodoku.exe
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku\Sodoku\bin\Debug\Sodoku.pdb
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku\Sodoku\obj\Debug\Sodoku.exe
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku\Sodoku\obj\Debug\Sodoku.pdb
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku\Sodoku\obj\Debug\Sodoku.Sudoku.resources
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku\Sodoku\obj\Release\Sodoku.Sudoku.resources
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku Done\Sodoku\obj\Release\Sodoku.exe
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku Done\Sodoku\obj\Release\Sodoku.pdb
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku Done\Sodoku\bin\Debug\Sodoku.exe
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku Done\Sodoku\bin\Debug\Sodoku.pdb
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku Done\Sodoku\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku Done\Sodoku\obj\Debug\Sodoku.Sudoku.resources
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku Done\Sodoku\obj\Debug\Sodoku.Properties.Resources.resources
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku Done\Sodoku\obj\Debug\Sodoku.csproj.GenerateResource.Cache
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku Done\Sodoku\obj\Debug\Sodoku.exe
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku Done\Sodoku\obj\Debug\Sodoku.pdb
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku Done\Sodoku\bin\Release\Sodoku.exe
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku Done\Sodoku\bin\Release\Sodoku.pdb
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku Done\Sodoku\obj\Release\ResolveAssemblyReference.cache
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku Done\Sodoku\obj\Release\Sodoku.Sudoku.resources
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku Done\Sodoku\obj\Release\Sodoku.Properties.Resources.resources
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku Done\Sodoku\obj\Release\Sodoku.csproj.GenerateResource.Cache
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku ver 1.0.0.2\Sodoku\obj\Release\Sodoku.exe
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku ver 1.0.0.2\Sodoku\obj\Release\Sodoku.pdb
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku ver 1.0.0.2\Sodoku\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku ver 1.0.0.2\Sodoku\obj\Debug\Sodoku.Sudoku.resources
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku ver 1.0.0.2\Sodoku\obj\Debug\Sodoku.Properties.Resources.resources
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku ver 1.0.0.2\Sodoku\obj\Debug\Sodoku.csproj.GenerateResource.Cache
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku ver 1.0.0.2\Sodoku\obj\Debug\Sodoku.exe
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku ver 1.0.0.2\Sodoku\bin\Debug\Sodoku.exe
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku ver 1.0.0.2\Sodoku\bin\Debug\Sodoku.pdb
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku ver 1.0.0.2\Sodoku\obj\Debug\Sodoku.pdb
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku ver 1.0.0.2\Sodoku\bin\Release\Sodoku.exe
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku ver 1.0.0.2\Sodoku\bin\Release\Sodoku.pdb
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku ver 1.0.0.2\Sodoku\obj\Release\ResolveAssemblyReference.cache
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku ver 1.0.0.2\Sodoku\obj\Release\Sodoku.Sudoku.resources
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku ver 1.0.0.2\Sodoku\obj\Release\Sodoku.Properties.Resources.resources
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku ver 1.0.0.2\Sodoku\obj\Release\Sodoku.csproj.GenerateResource.Cache
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku ver 1.0.0.3\Sodoku\obj\Release\Sodoku.exe
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku ver 1.0.0.3\Sodoku\obj\Release\Sodoku.pdb
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku ver 1.0.0.3\Sodoku\bin\Debug\Sodoku.exe
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku ver 1.0.0.3\Sodoku\bin\Debug\Sodoku.pdb
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku ver 1.0.0.3\Sodoku\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku ver 1.0.0.3\Sodoku\obj\Debug\Sodoku.Sudoku.resources
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku ver 1.0.0.3\Sodoku\obj\Debug\Sodoku.Properties.Resources.resources
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku ver 1.0.0.3\Sodoku\obj\Debug\Sodoku.csproj.GenerateResource.Cache
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku ver 1.0.0.3\Sodoku\obj\Debug\Sodoku.exe
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku ver 1.0.0.3\Sodoku\obj\Debug\Sodoku.pdb
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku ver 1.0.0.3\Sodoku\bin\Release\Sodoku.exe
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku ver 1.0.0.3\Sodoku\bin\Release\Sodoku.pdb
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku ver 1.0.0.3\Sodoku\obj\Release\ResolveAssemblyReference.cache
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku ver 1.0.0.3\Sodoku\obj\Release\Sodoku.Sudoku.resources
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku ver 1.0.0.3\Sodoku\obj\Release\Sodoku.Properties.Resources.resources
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\CB100 Tester\Sodoku ver 1.0.0.3\Sodoku\obj\Release\Sodoku.csproj.GenerateResource.Cache
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\Project\Sodoku ver 1.0.0.3\Sodoku\obj\Release\Sodoku.exe
+C:\Users\WY Chew\Documents\Visual Studio 2005\Projects\Project\Sodoku ver 1.0.0.3\Sodoku\obj\Release\Sodoku.pdb
